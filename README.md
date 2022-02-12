@@ -5,7 +5,6 @@
 >   * [About Database](#AboutDatabases)
 >   * [Built with](#Builtwith)
 >   * [Installation](#Installation)
->   * [Examples](#Example)
 
 # Deep Convolutional Generative Adversarial Networks (DCGANs) - Tensorflow
 ## About the Project
@@ -28,8 +27,5 @@ Dataset is fashion_mnist dataset from the keras.
 * Pytorch
 * Binary cross-entropy (BCE) loss function for both of generator and discriminator.
 * Adam optimizer.
-
-
-## Examples
 
 
