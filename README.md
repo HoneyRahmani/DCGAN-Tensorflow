@@ -14,10 +14,6 @@ This project focuses on develop the Deep Convolutional GAN (DCGAN) to generate n
 
 The generator generates fake data and the discriminator identifies real images from fake images. The generator and the discriminator compete with each other in a game in the training stage. This competition is generating better-looking images to deceive the discriminator by the generator and getting better at identifying real images from fake images by the discriminator.
 
-Steps of Developing This project:
-
-![Gan-recipes](https://user-images.githubusercontent.com/75105778/153688224-873dae4f-8d2f-4ede-aae4-c58d1397dff0.jpg)
-
 
 ## About Database
 
