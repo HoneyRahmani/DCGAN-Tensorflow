@@ -26,6 +26,6 @@ Dataset is fashion_mnist dataset from the keras.
 ## Built with
 * Pytorch
 * Binary cross-entropy (BCE) loss function for both of generator and discriminator.
-* Adam optimizer.
+* Adam optimizer
 
 
